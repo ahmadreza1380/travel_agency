@@ -3,7 +3,7 @@
 
 ## Description
 
-This project is developed as the final assignment for the "Kargah 3" course by Mohammad Mahdi Khorramabadi. It is a website for a travel agency built using PHP, HTML, and CSS. The website aims to provide information about travel destinations, allow users to book travel packages, and showcase various services offered by the agency.
+This project is developed as the final assignment for the "Kargah 3" course by Mohammad Mahdi Khorramabadi and ahmadreza shamohammadi . It is a website for a travel agency built using PHP, HTML, and CSS. The website aims to provide information about travel destinations, allow users to book travel packages, and showcase various services offered by the agency.
 
 ## Features
 
